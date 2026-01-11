@@ -1,0 +1,30 @@
+.div1 {
+	background-color: green;
+    width: 390px;
+    height: 550px;
+	border-radius: 40px;
+	margin: 0 auto;
+}	
+.a1 {
+	color: blue;
+	background-color: white;
+	border-radius: 40px;
+}	
+body {
+	background-color: violet;
+}	
+a {
+	color: blue;
+	background-color: white;
+	border-radius: 40px;
+}
+.p3 {
+	color: violet;
+	
+}		
+li {
+	color: yellow;
+}	
+.b1 {
+	color: violet;
+}	
